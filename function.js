@@ -152,3 +152,9 @@ const simpleMutiply = (a, b) => {
 (function hello() {
     console.log('IIFE');
 })();
+
+
+// Fun quiz time
+// function calculate(command, a, b)
+// command: add, substract, divide, multiply, remainder
+// (연산 명령을 받아 계산 수행하는 함수)

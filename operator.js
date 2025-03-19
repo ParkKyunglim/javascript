@@ -49,7 +49,7 @@ const value2 = 4 < 2;
 console.log(`or: ${value1 || value2 || check()}`);
 
 // && (and), 10 chars
-finds the first falsy value (첫 번째 false 값을 찾으면 반환)
+// finds the first falsy value (첫 번째 false 값을 찾으면 반환)
 console.log(`and: ${value1 && value2 && check()}`);
 
 // often used to compress long if-statement
